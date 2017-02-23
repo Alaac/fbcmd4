@@ -4,16 +4,17 @@ Facebook CLI client. For educational purposes only.
 
 ## Instalación
 
-TODO: Agregar proceso de instalación.
+Aun no definido
 
 ## Uso
 
-TODO: Agregar instrucciones de uso
+Agregar instrucciones de uso:
+
 
 ## Créditos
 
-TODO: Agregar autor(es)
+Alejandro Ivan Rodriguez García
 
 ## Licencia
 
-TODO: Agregar Licencia
+Agregar Licencia
